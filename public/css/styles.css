@@ -1,0 +1,116 @@
+
+.logo {
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#nav {
+	width: 150px;
+	height: 600px;
+	float: left;
+	background: black;
+}
+
+#nav ul{
+	margin-top: 0;
+	margin-right: 10px;
+	list-style: none;
+	/*border: solid #fff 1px;*/
+	
+
+}
+
+#nav ul li a {
+	color: white;
+	text-decoration: none;
+
+}
+
+#wrapper {
+	width: 1200px;
+	height: 1000px;
+	/*border: solid black 2px;*/
+	margin: 0 auto;
+
+}
+
+#homeImage{
+	width: 760px;
+	height:500px;
+	margin-left:60px;
+	float:left;
+
+}
+
+#button{
+	width: 150px;
+	height:500px;
+	margin-left:40px;
+	float:left;
+	margin-top: 100px
+}
+
+#contactImage{
+	width: 600px;
+	height:500px;
+	margin-left:40px;
+	float:left;
+}
+
+body{
+	
+	font-family: "Helvetica Neue",sans-serif;
+  	font-size: 19px;
+  	line-height: 50px;
+  	color: #ef5b9c;
+  	text-decoration: none;
+  	font-weight: bold;  	
+}
+
+
+
+p {
+	font-size: 16px;
+  	line-height: 18px;
+	color: #ef5b9c;
+	text-align: justify;
+}
+ 
+.button-link {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    color: black;
+}
+
+.button-link:hover {
+    background-color: #ef5b9c;
+}
+
+#Adoptionbutton {
+	width: 150px;
+	height:500px;
+	margin-left:40px;
+	float:left;
+	margin-top: 150px
+
+}
+
+#AdoptionImage figure {
+	float: left;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-right: 32px;
+}
+
+h5 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 35px;
+}
+
+    
